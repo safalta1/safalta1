@@ -8,7 +8,7 @@
 
 - 🔭 Diving into the world of programming and creativity **for societal impact**
 
-- 📫 How to reach me: **tshristi85@gmail.com**
+- 📫 How to reach me: **MIT88@pitt.edu**
 
 - 🌱 "The best way to predict the future is to invent it." **- Alan Kay**
 
