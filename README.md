@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Minakshi</h1>
+<h1 align="center">Hey there 👋, Welcome to my github account</h1>
 <h3 align="center">Coding enthusiast at the University of Pittsburgh</h3>
 
 <img align="right" alt="Coding" width="200" src="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230127-chatgpt-coding-le-1212-d31c75.jpg">
