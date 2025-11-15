@@ -6,13 +6,12 @@
 
 
 
-- 🔭 Diving into the world of programming and creativity **for societal impact**
+- 🔭 Diving into the world of programming and creativity 
 
 - 🌱 "The best way to predict the future is to invent it." **- Alan Kay**
 
 - 💬 Ask me about **anything Tech! :))**
 
-- ⚡ Fun fact **I love volunteering and have been a part of Leo Club International for more than 5 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
